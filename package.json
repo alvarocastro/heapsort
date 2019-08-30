@@ -4,6 +4,7 @@
   "description": "An implementation of the heapsort algorithm",
   "main": "index.js",
   "scripts": {
+    "performance": "node performance.js",
     "test": "xo && ava"
   },
   "repository": {
