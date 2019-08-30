@@ -1,0 +1,27 @@
+{
+  "name": "heapsort",
+  "version": "0.0.1",
+  "description": "An implementation of the heapsort algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvarocastro/heapsort.git"
+  },
+  "keywords": [
+    "heapsort",
+    "sort",
+    "algorithm"
+  ],
+  "author": "Alvaro Castro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvarocastro/heapsort/issues"
+  },
+  "homepage": "https://github.com/alvarocastro/heapsort#readme",
+  "devDependencies": {
+    "xo": "^0.24.0"
+  }
+}
