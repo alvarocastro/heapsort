@@ -27,7 +27,7 @@ const perfTest = function (c, n) {
 
 process.stdout.write('Sorting random numbers generated in the range [-1,1]:\n');
 let n = 0;
-for (let i = 10; i <= 10000; i *= 10) {
+for (let i = 10; i <= 1000000; i *= 10) {
 	n++;
 	perfTest(i, n);
 }
