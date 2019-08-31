@@ -1,6 +1,6 @@
 {
   "name": "@alvarocastro/heapsort",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "An implementation of the heapsort algorithm",
   "main": "index.js",
   "scripts": {
