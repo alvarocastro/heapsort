@@ -23,7 +23,7 @@
     "url": "https://github.com/alvarocastro/heapsort/issues"
   },
   "engines": {
-    "node": "*"
+    "node": ">=6"
   },
   "homepage": "https://github.com/alvarocastro/heapsort#readme",
   "devDependencies": {
