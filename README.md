@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/alvarocastro/heapsort.svg?branch=master)](https://travis-ci.org/alvarocastro/heapsort)
 [![Maintainability](https://api.codeclimate.com/v1/badges/544c930356ee7c858927/maintainability)](https://codeclimate.com/github/alvarocastro/heapsort/maintainability)
 [![Coverage Status](https://coveralls.io/repos/github/alvarocastro/heapsort/badge.svg?branch=master)](https://coveralls.io/github/alvarocastro/heapsort?branch=master)
+[![Bundle Size](https://badgen.net/bundlephobia/min/@alvarocastro/heapsort)](https://coveralls.io/github/alvarocastro/heapsort?branch=master)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
 Yet another implementation of heapsort in JavaScript aimed to be flexible, lightweight and fast.
