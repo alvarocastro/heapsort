@@ -12,6 +12,8 @@ Yet another implementation of heapsort in JavaScript aimed to be flexible, light
 - [Usage](#usage)
 - [Performance](#performance)
 - [More examples](#more-examples)
+- [Contributing](#contributing)
+- [Support](#support)
 
 ## Install
 
@@ -123,3 +125,11 @@ sort(elements, comparator);
 // {name: 'T-1000', firstAppearance: 'Terminator 2: Judgement Day'}
 // ]
 ```
+
+## Contributing
+
+Contributions are always welcome! Please run `npm test` before hand to ensure everything is ok.
+
+## Support
+
+If you use this package please consider starring it :)
