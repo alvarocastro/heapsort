@@ -1,10 +1,12 @@
 # Heapsort
-[![NPM](https://img.shields.io/npm/v/@alvarocastro/heapsort.svg)](https://www.npmjs.com/package/@alvarocastro/heapsort)
-[![Build Status](https://travis-ci.org/alvarocastro/heapsort.svg?branch=master)](https://travis-ci.org/alvarocastro/heapsort)
-[![Maintainability](https://api.codeclimate.com/v1/badges/544c930356ee7c858927/maintainability)](https://codeclimate.com/github/alvarocastro/heapsort/maintainability)
-[![Coverage Status](https://coveralls.io/repos/github/alvarocastro/heapsort/badge.svg?branch=master)](https://coveralls.io/github/alvarocastro/heapsort?branch=master)
-[![Bundle Size](https://badgen.net/bundlephobia/min/@alvarocastro/heapsort)](https://bundlephobia.com/result?p=@alvarocastro/heapsort)
-[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
+
+[![NPM](https://img.shields.io/npm/v/@alvarocastro/heapsort)](https://www.npmjs.com/package/@alvarocastro/heapsort)
+[![Build status](https://img.shields.io/github/workflow/status/alvarocastro/heapsort/build)](https://github.com/alvarocastro/heapsort/actions?query=workflow%3Abuild)
+[![Maintainability status](https://img.shields.io/codeclimate/maintainability/alvarocastro/heapsort)](https://codeclimate.com/github/alvarocastro/heapsort/maintainability)
+[![Coverage status](https://img.shields.io/coveralls/github/alvarocastro/heapsort)](https://coveralls.io/github/alvarocastro/heapsort?branch=master)
+[![Bundle size](https://img.shields.io/bundlephobia/min/@alvarocastro/heapsort)](https://bundlephobia.com/result?p=@alvarocastro/heapsort)
+[![Code style: XO](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
+[![Release: Semantic](https://img.shields.io/badge/%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
 Yet another implementation of heapsort in JavaScript aimed to be flexible, lightweight and fast.
 
@@ -128,7 +130,7 @@ sort(elements, comparator);
 
 ## Contributing
 
-Contributions are always welcome! Please run `npm test` before hand to ensure everything is ok.
+Contributions are always welcome! Please run `npm test` beforehand to ensure everything is ok.
 
 ## Support
 

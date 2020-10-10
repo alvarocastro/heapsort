@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "performance": "node performance.js",
-    "test": "xo && nyc ava",
-    "coverage": "nyc report --reporter=text-lcov | coveralls"
+    "test": "xo && nyc ava"
   },
   "repository": {
     "type": "git",
@@ -22,14 +21,12 @@
   "bugs": {
     "url": "https://github.com/alvarocastro/heapsort/issues"
   },
-  "engines": {
-    "node": ">=6"
-  },
   "homepage": "https://github.com/alvarocastro/heapsort#readme",
   "devDependencies": {
     "ava": "3.12.1",
     "coveralls": "3.1.0",
     "nyc": "15.1.0",
+    "semantic-release": "^17.1.2",
     "xo": "0.33.1"
   }
 }
