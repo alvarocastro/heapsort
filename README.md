@@ -66,23 +66,23 @@ Here is an example of the output (YMMV depending your hardware)
 ```
 Sorting random numbers generated in the range [-1,1]:
 #1 - 10 numbers
-> Heapsort: 1ms
-> Array.sort: 1ms
-#2 - 100 numbers
 > Heapsort: 0ms
 > Array.sort: 1ms
+#2 - 100 numbers
+> Heapsort: 2ms
+> Array.sort: 1ms
 #3 - 1000 numbers
-> Heapsort: 16ms
-> Array.sort: 12ms
+> Heapsort: 8ms
+> Array.sort: 1ms
 #4 - 10000 numbers
-> Heapsort: 20ms
-> Array.sort: 44ms
+> Heapsort: 16ms
+> Array.sort: 23ms
 #5 - 100000 numbers
-> Heapsort: 174ms
-> Array.sort: 506ms
+> Heapsort: 45ms
+> Array.sort: 394ms
 #6 - 1000000 numbers
-> Heapsort: 2578ms
-> Array.sort: 6424ms
+> Heapsort: 709ms
+> Array.sort: 6260ms
 ```
 
 ## More examples
